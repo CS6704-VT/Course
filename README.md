@@ -3,9 +3,11 @@
 > **Software Engineering as a Human Activity**
 
 
-### Spring 2023 Course Info
+### Spring 2024 Course Info
 
-Lectures: TBD
-Final Exam: TBD
-Instructor: Dr. Chris Brown [dcbrown@vt.edu], Office hours: TBD
+* Lectures: TBD
+* Final Exam: TBD
+* Instructor: [Dr. Chris Brown](https://chbrown13.github.io/)
+  * Email: dcbrown@vt.edu
+  * Office hours: TBD
 

@@ -12,7 +12,7 @@ This seminar course will explore a variety topics exploring existing challenges 
 
 #### Course Information
 
-* Lectures: TBD
+* Lectures: Tu/Th 12:30-1:45pm, McBryde 126
 * Final Exam: TBD
 * Instructor: [Dr. Chris Brown](https://chbrown13.github.io/) [dcbrown@vt.edu], *Office Hours:* TBD
 

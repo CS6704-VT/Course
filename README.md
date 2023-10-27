@@ -19,8 +19,45 @@ This seminar course will explore a variety topics exploring existing challenges 
 
 ## Course Schedule
 
-➡️ _Please note this schedule is subject to change. **All homework (HW) and project milestone (PM) assignments are due at 11:59pm unless otherwise specified.**_
+➡️ _Please note this schedule is subject to change. **All assignments are due at 11:59pm unless otherwise specified.**_
 
-| Date     | Topic                            |  Assignments       |
+| Date     | Topic                            |  Assignment       |
 |----------|----------------------------------|------------------  |
-|  | 👨‍💻  &nbsp;&nbsp;&nbsp; TBD &nbsp;&nbsp;&nbsp; 👩‍💻 |  |
+| <tr><th colspan=3> 👨‍💻 &nbsp;&nbsp;&nbsp; Intro to Software Engineering &nbsp;&nbsp;&nbsp; 👩‍💻 </th></tr> |
+| Jan 16 | Introduction |  |
+| Jan 18 |  | |
+| Jan 23 |  | |
+| Jan 25 |  | |
+| Jan 30 |  | |
+| Feb 1  |  | |
+| Feb 6  |  | |
+| Feb 8  |  | |
+| Feb 13 |  | |
+| Feb 15 |  | |
+| Feb 20 |  | |
+| Feb 22 |  | |
+| Feb 27 |  | |
+| Feb 29 |  | |
+| <tr><th colspan=3> 🌻 &nbsp;&nbsp;&nbsp; Spring Break &nbsp;&nbsp;&nbsp; 🌄 </th></tr> |
+| Mar 5  | SPRING BREAK | |
+| Mar 7  | SPRING BREAK | |
+| <tr><th colspan=3> </th></tr> |
+| Mar 12 |  | |
+| Mar 14 |  | |
+| Mar 19 |  | |
+| Mar 21 |  | |
+| Mar 26 |  | |
+| Mar 28 |  | |
+| Apr 2  |  | |
+| Apr 4  |  | |
+| Apr 9  |  | |
+| Apr 11 |  | |
+| Apr 16 |  | |
+| Apr 18 |  | |
+| Apr 23 |  | |
+| Apr 25 |  | |
+| Apr 30 |  | |
+| <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
+| TBD  | Final Exam | |
+
+

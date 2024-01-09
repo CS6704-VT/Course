@@ -13,7 +13,7 @@ This seminar course will explore a variety topics exploring existing challenges 
 #### Course Information
 
 * Lectures: Tu/Th 12:30-1:45pm, McBryde 126
-* Final Exam: TBD
+* Final Exam: May 8, 1:05-3:05pm
 * Instructor: [Dr. Chris Brown](https://chbrown13.github.io/) [dcbrown@vt.edu], *Office Hours:* TBD
 
 
@@ -58,6 +58,6 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Apr 25 |  | |
 | Apr 30 |  | |
 | <tr><th colspan=3> 🏁 &nbsp;&nbsp;&nbsp; Final Exam &nbsp;&nbsp;&nbsp; 💯 </th></tr> |
-| TBD  | Final Exam | |
+| May 8  | Final Exam | |
 
 

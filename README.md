@@ -27,30 +27,30 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Jan 16 | Course Introduction |  |
 | Jan 18 | 👨‍💻 SE Overview 👩‍💻 | HW0 (due 1/19) |
 | Jan 23 | [Workshop] SE Basics | |
-| Jan 25 | SE Processes | |
-| Jan 30 | Requirements | |
+| Jan 25 | Research Overview <br/>Software Engineers | |
+| Jan 30 | SE Processes | |
 | Feb 1  | Project Workday | |
 | Feb 6  | ⚡ Lightning Talks | Project Proposal (due 2/9) |
-| Feb 8  | [Workshop] Requirements |  |
-| Feb 13 | Software Design | |
-| Feb 15 | Design II | |
-| Feb 20 | [Workshop] Design | |
-| Feb 22 | Humans Writing Code | |
-| Feb 27 | Machines Writing Code | |
+| Feb 8  | Requirements |  |
+| Feb 13 | [Workshop] Requirements | |
+| Feb 15 | Software Design| |
+| Feb 20 | Design II | |
+| Feb 22 | [Workshop] Design | |
+| Feb 27 | Humans Writing Code | |
 | Feb 29 | [Workshop] Implementation | |
 | Mar 5  | 🌻 SPRING BREAK | |
 | Mar 7  | 🌄 SPRING BREAK | |
-| Mar 12 | Testing | |
+| Mar 12 | Machines Writing Code | |
 | Mar 14 | Debugging | |
 | Mar 19 | Refactoring | |
 | Mar 21 | Code Reviews | |
-| Mar 26 | [Workshop] Testing and Maintenance | |
-| Mar 28 | Deployment | |
+| Mar 26 | Testing | |
+| Mar 28 | [Workshop] Testing and Maintenance | |
 | Apr 2  | CI/CD and DevOps | |
-| Apr 4  | Automated Program Repair | |
-| Apr 9  | Human Issues I | |
-| Apr 11 | Human Issues II | |
-| Apr 16 | Project Workday | |
+| Apr 4  | Deployment | |
+| Apr 9  | Automated Program Repair | |
+| Apr 11 | Human Issues I | |
+| Apr 16 | Human Issues II | |
 | Apr 18 | Project Workday | Project Report (due 4/19) |
 | Apr 23 | Research Challenges I | |
 | Apr 25 | Research Challenges II | |

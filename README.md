@@ -33,19 +33,19 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Feb 6  | ⚡ Lightning Talks | Project Proposal (due 2/9) |
 | Feb 8  | Requirements |  |
 | Feb 13 | [Workshop] Requirements | |
-| Feb 15 | Software Design| |
+| Feb 15 | Software Design | HW1 |
 | Feb 20 | Design II | |
 | Feb 22 | [Workshop] Design | |
 | Feb 27 | Humans Writing Code | |
-| Feb 29 | [Workshop] Implementation | |
+| Feb 29 | [Workshop] Implementation | HW2 |
 | Mar 5  | 🌻 SPRING BREAK | |
 | Mar 7  | 🌄 SPRING BREAK | |
 | Mar 12 | Machines Writing Code | |
-| Mar 14 | Debugging | |
+| Mar 14 | Debugging | Project Check-in |
 | Mar 19 | Refactoring | |
-| Mar 21 | Code Reviews | |
+| Mar 21 | Code Reviews |  |
 | Mar 26 | Testing | |
-| Mar 28 | [Workshop] Testing and Maintenance | |
+| Mar 28 | [Workshop] Testing and Maintenance | HW3 |
 | Apr 2  | CI/CD and DevOps | |
 | Apr 4  | Deployment | |
 | Apr 9  | Automated Program Repair | |

@@ -27,35 +27,35 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Jan 16 | Course Introduction |  |
 | Jan 18 | 👨‍💻 SE Overview 👩‍💻 | HW0 (due 1/19) |
 | Jan 23 | [Workshop] SE Basics | |
-| Jan 25 | Research Overview <br/>Software Engineers | |
+| Jan 25 | Research Overview <br/>Software Engineers | HW1 (due 1/26) |
 | Jan 30 | SE Processes | |
 | Feb 1  | Project Workday | |
-| Feb 6  | ⚡ Lightning Talks | Project Proposal (due 2/9) |
-| Feb 8  | Requirements |  |
+| Feb 6  | ⚡ Lightning Talks | |
+| Feb 8  | Requirements |  Project Proposal (due 2/9) |
 | Feb 13 | [Workshop] Requirements | |
-| Feb 15 | Software Design | HW1 |
-| Feb 20 | Design II | |
+| Feb 15 | Software Design | HW2 (due 2/16) |
+| Feb 20 | UI/UX Design | |
 | Feb 22 | [Workshop] Design | |
 | Feb 27 | Humans Writing Code | |
-| Feb 29 | [Workshop] Implementation | HW2 |
+| Feb 29 | [Workshop] Implementation | HW3 (due 3/1) |
 | Mar 5  | 🌻 SPRING BREAK | |
 | Mar 7  | 🌄 SPRING BREAK | |
-| Mar 12 | Machines Writing Code | |
-| Mar 14 | Debugging | Project Check-in |
-| Mar 19 | Refactoring | |
-| Mar 21 | Code Reviews |  |
-| Mar 26 | Testing | |
-| Mar 28 | [Workshop] Testing and Maintenance | HW3 |
-| Apr 2  | CI/CD and DevOps | |
-| Apr 4  | Deployment | |
+| Mar 12 | Humans Writing Code II | |
+| Mar 14 | Machines Writing Code | Project Check-in |
+| Mar 19 | Debugging | |
+| Mar 21 | Refactoring |  |
+| Mar 26 | Code Reviews | |
+| Mar 28 | Testing | HW4 (due 3/29) |
+| Apr 2  | [Workshop] Testing and Maintenance | |
+| Apr 4  | Deployment, CI/CD, and DevOps | |
 | Apr 9  | Automated Program Repair | |
-| Apr 11 | Human Issues I | |
+| Apr 11 | Human Issues I | HW5 (due 5/12) |
 | Apr 16 | Human Issues II | |
 | Apr 18 | Project Workday | Project Report (due 4/19) |
 | Apr 23 | Research Challenges I | |
-| Apr 25 | Research Challenges II | |
+| Apr 25 | Research Challenges II | HW6 (due 4/26) |
 | Apr 30 | Retrospective <br/> [Workshop] Deployment | Reviews (due 5/1) |
-| May 8  | 📝 Camera-ready deadline |  |
-| TBD    | Class conference | |
+| May 8  | Final Exam | Final Project Report (due 5/8) |
+| TBD    | Final project oral presentations | |
 
 

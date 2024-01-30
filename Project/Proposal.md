@@ -16,14 +16,15 @@ There are a wide variety of methods to conduct [empirical software engineering r
 ## Additional Guidelines
 
 Your project team must submit a design proposal document on Canvas and the proposal must be added to your GitHub repo for the final project submission. The proposal must conform to the International Conference on Software Engineering (ICSE) formatting guidelines (see the [MS Word](https://www.acm.org/binaries/content/assets/publications/word_style/interim-template-style/interim-layout.docx), [Latex](https://www.acm.org/binaries/content/assets/publications/consolidated-tex-template/acmart-primary.zip), and [Overleaf](https://www.overleaf.com/gallery/tagged/acm-official#.WOuOk2e1taQ) templates). The proposal must introduce your project and provide an overview of the high-level design. Your document should be no more than 2-pages (excluding references). Please check your document for typos and spelling or grammar errors. The proposal must contain:
-    * a relevant _title_ and all group members listed as _authors_;
-    * an _abstract_ briefly describing the problem and proposed solution;
-    * an _introduction_ that further explains the problem and motivates the need for the proposed solution;
-    * a preliminary list of _research questions_ you aim to investigate for your project (these may change later);
-    * _related work_ presenting relevant software engineering research or tools; 
-    * a brief description of the _methodology_ you plan to use;
-    * a _conclusion_ on how your proposed project relates to the class theme;
-    * and _references_ to for appropriate citations. 
+
+* a relevant _title_ and all group members listed as _authors_;
+* an _abstract_ briefly describing the problem and proposed solution;
+* an _introduction_ that further explains the problem and motivates the need for the proposed solution;
+* a preliminary list of _research questions_ you aim to investigate for your project (these may change later);
+* _related work_ presenting relevant software engineering research or tools; 
+* a brief description of the _methodology_ you plan to use;
+* a _conclusion_ on how your proposed project relates to the class theme;
+* and _references_ to for appropriate citations. 
 
 The proposal document will be graded according to [this rubric](../resources/rubrics/proposal.pdf).
 

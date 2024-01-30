@@ -25,4 +25,6 @@ Your project team must submit a design proposal document on Canvas and the propo
     * a _conclusion_ on how your proposed project relates to the class theme;
     * and _references_ to for appropriate citations. 
 
+The proposal document will be graded according to [this rubric](../resources/rubrics/proposal.pdf).
+
 ### Due: Feb 9, 11:59pm

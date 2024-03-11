@@ -41,7 +41,7 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Mar 5  | 🌻 SPRING BREAK | |
 | Mar 7  | 🌄 SPRING BREAK | |
 | Mar 12 | Humans Writing Code II | |
-| Mar 14 | Machines Writing Code | Project Check-in |
+| Mar 14 | Machines Writing Code | Project Check-in (due 3/15) |
 | Mar 19 | Debugging | |
 | Mar 21 | Refactoring |  |
 | Mar 26 | Code Reviews | |

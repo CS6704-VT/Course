@@ -49,7 +49,7 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Apr 2  | [Workshop] Testing and Maintenance | |
 | Apr 4  | Deployment, CI/CD, and DevOps | |
 | Apr 9  | Automated Program Repair | |
-| Apr 11 | Human Issues I | HW5 (due 5/12) |
+| Apr 11 | Human Issues I | HW5 (due 4/12) |
 | Apr 16 | Human Issues II | |
 | Apr 18 | Project Workday | Project Report (due 4/19) |
 | Apr 23 | Research Challenges I | |

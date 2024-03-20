@@ -46,16 +46,16 @@ This seminar course will explore a variety topics exploring existing challenges 
 | Mar 21 | Refactoring |  |
 | Mar 26 | Code Reviews | |
 | Mar 28 | Testing | HW4 (due 3/29) |
-| Apr 2  | [Workshop] Testing and Maintenance | |
+| Apr 2  | [Workshop] Testing / Project Workday | |
 | Apr 4  | Deployment, CI/CD, and DevOps | |
 | Apr 9  | Automated Program Repair | |
 | Apr 11 | Human Issues I | HW5 (due 4/12) |
 | Apr 16 | Human Issues II | |
-| Apr 18 | Project Workday | Project Report (due 4/19) |
+| Apr 18 | Project Workday | Project Abstract (due 4/19) |
 | Apr 23 | Research Challenges I | |
-| Apr 25 | Research Challenges II | HW6 (due 4/26) |
-| Apr 30 | Retrospective <br/> [Workshop] Deployment | Reviews (due 5/1) |
-| May 8  | Final Exam | Final Project Report (due 5/8) |
-| TBD    | Final project oral presentations | |
+| Apr 25 | Research Challenges II | Project Report (due 4/26) |
+| Apr 30 | Retrospective / Project Workday | Reviews (due 5/1) |
+| May 8  | Final Exam (Oral Presentation) | [HATSE](https://cs6704-vt.github.io/hatse/) (due 5/8, 12pm)|
+| May 8  | Final Exam (Written Component) | Project Report (due 5/8, 11:59pm) |
 
 
